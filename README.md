@@ -12,3 +12,8 @@
 
 
 ## 2.Which are the maturity dimensions, used as indicators for assessment of the maturity levels?
+* It operation team
+* Service Development staff and Development Group
+* Line of Business staff and supporting a service or business area
+* Enterprise Architect
+* CIO organization
